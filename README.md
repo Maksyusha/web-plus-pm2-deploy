@@ -1,3 +1,5 @@
 # Деплой приложения на сервер с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+* IP адрес 84.252.143.48
+* Frontend https://mesto.maksyusha.nomoredomainsicu.ru
+* Backend https://api.mesto.maksyusha.nomoredomainsicu.ru/signin
